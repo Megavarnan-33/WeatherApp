@@ -1,0 +1,5 @@
+Step 1: get the Free api key from openweathermap.org
+Step 2: Use the api key to retrieve the current weather data in json format based on city name
+Step 3: Convert json format into readable format
+Step 4: Filter the retrieved data using python 
+Step 5: Show the current Weather
